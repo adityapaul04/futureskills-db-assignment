@@ -1,6 +1,6 @@
 # Database Assignment
 
-This repository contains the answers to an assignment given by a company regarding database concepts and implementation.
+This repository contains the answers to an assignment given by a FutureSkills.
 
 ## Sample Image
 
